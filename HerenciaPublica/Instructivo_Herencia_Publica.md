@@ -1,6 +1,6 @@
-## Instructivo: Herencia Pública en C++
+## Herencia Pública en C++
 
-### 1. Presentación y explicación profunda
+### 1. Presentación
 
 La **herencia pública** es un pilar fundamental de la Programación Orientada a Objetos (POO) en C++. Consiste en definir una nueva clase (subclase) que extiende otra clase existente (superclase o clase base), de modo que:
 
@@ -172,4 +172,4 @@ int main() {
 
 ---
 
-*Este instructivo está diseñado para proporcionar al programador junior un recorrido práctico y profundo por la herencia pública en C++, desde la identificación del problema hasta la aplicación de buenas prácticas de diseño orientado a objetos.*
+*Este instructivo está diseñado para proporcionar al programador aprendiz un recorrido práctico por la herencia pública en C++, desde la identificación del problema hasta la aplicación de buenas prácticas de diseño orientado a objetos.*
