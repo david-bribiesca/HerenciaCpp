@@ -1,4 +1,4 @@
-# Instructivo: Herencia Virtual en C++
+# Herencia Virtual en C++
 
 ## 1. Presentación y explicación profunda
 
