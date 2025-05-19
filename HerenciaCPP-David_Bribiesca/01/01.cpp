@@ -5,7 +5,7 @@ using namespace std;
 class Animal {
 public:
     void comer() {
-        cout << "El animal está comiendo." << endl;
+        cout << "ñam ñam" << endl;
     }
 };
 
