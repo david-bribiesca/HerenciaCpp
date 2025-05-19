@@ -14,7 +14,7 @@ class Guitarra : public Instrumento {
 public:
     Guitarra(string s) : Instrumento(s) {}
     void tocar() override {
-        cout << "Tocando la guitarra: " << nombre << endl;
+        cout << "Tocando la guitarra: " << marca << endl;
     }
 };
 
@@ -23,7 +23,7 @@ void probar(Instrumento* inst) {
 }
 
 int main() {
-    Guitarra g;
+    Guitarra g("Fender");
     probar(&g);
     return 0;
 }
