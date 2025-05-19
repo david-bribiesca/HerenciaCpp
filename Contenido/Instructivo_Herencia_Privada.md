@@ -1,4 +1,4 @@
-# Instructivo: Herencia Privada en C++
+# Herencia Privada en C++
 
 ## 1. Presentación y explicación profunda
 
