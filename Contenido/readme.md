@@ -1,4 +1,4 @@
-# Contenido del Repositorio
+# Contenido Instruccional
 
 Este directorio **`Contenido`** centraliza enlaces a los diferentes instructivos disponibles en el repositorio. Cada enlace apunta al archivo Markdown correspondiente, facilitando el acceso rápido al material de estudio.
 
