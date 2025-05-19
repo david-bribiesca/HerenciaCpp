@@ -1,4 +1,4 @@
-## Instructivo: Herencia Pública en C++
+## Herencia Pública en C++
 
 ### 1. Presentación y explicación profunda
 
@@ -172,4 +172,4 @@ int main() {
 
 ---
 
-*Este instructivo está diseñado para proporcionar al programador junior un recorrido práctico y profundo por la herencia pública en C++, desde la identificación del problema hasta la aplicación de buenas prácticas de diseño orientado a objetos.*
+*Este instructivo está diseñado para proporcionar al programador junior un recorrido práctico por la herencia pública en C++, desde la identificación del problema hasta la aplicación de buenas prácticas de diseño orientado a objetos.*
