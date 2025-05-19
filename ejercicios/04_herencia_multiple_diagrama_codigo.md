@@ -3,10 +3,18 @@
 **Enunciado:**
 A partir del siguiente diagrama de clases, genera el código correspondiente:
 
-```
-Clase ReproductorAudio → método reproducir()
-Clase ReproductorVideo → método mostrar()
-Clase ReproductorMultimedia hereda de ambas
+```mermaid
+classDiagram
+    class ReproductorAudio {
+        reproducir()
+    }
+    class ReproductorVideo {
+        mostrar()
+    }
+    class ReproductorMultimedia
+
+    ReproductorMultimedia --|> ReproductorAudio
+    ReproductorMultimedia --|> ReproductorVideo
 ```
 
 **Objetivo:**
