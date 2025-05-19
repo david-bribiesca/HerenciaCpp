@@ -1,4 +1,4 @@
-# Instructivo: Herencia Protegida en C++
+# Herencia Protegida en C++
 
 ## 1. Presentación y explicación profunda
 
