@@ -5,8 +5,8 @@ Este directorio **`Contenido`** centraliza enlaces a los diferentes instructivos
 ## Instructivos disponibles
 
 * [Herencia Pública](Instructivo_Herencia_Publica.md)
-* [Herencia Protegida](Contenido/instructivo_herencia_protegida.md)
-* [Herencia Privada](Contenido/instructivo_herencia_privada.md)
-* [Herencia Virtual](Contenido/instructivo_herencia_virtual.md)
+* [Herencia Protegida](instructivo_herencia_protegida.md)
+* [Herencia Privada](Instructivo_herencia_privada.md)
+* [Herencia Virtual](Instructivo_herencia_virtual.md)
 
 ---
