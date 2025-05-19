@@ -1,0 +1,3 @@
+Nombre: Juan
+Edad: 30
+Estatus: Empleado
