@@ -15,6 +15,6 @@ class Coche : public Vehiculo {
 int main() {
     Coche miCoche;
     miCoche.encender(); // ¿Por qué falla?
-    // fallaba porque en la linea 11 al heredar se estaba privado el acceso a la clase vehiculo
+    // fallaba porque en la linea 12 al heredar se estaba privado el acceso a la clase vehiculo
     return 0;
 }
